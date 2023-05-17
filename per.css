@@ -1,0 +1,21 @@
+img
+{
+ width: 400px;
+ height; 300px;
+ }
+ 
+body
+{
+ background-color:orange;
+ background-position: center;
+ background-image: url('mafia.JPG');
+ background-size: 30%;
+ 
+}
+ul li 
+{
+  padding:30px;
+  border:1px solid black;
+  display:inline block:
+}
+<p styles="text-align:Left"> HOME ABOUT Us! </p>
